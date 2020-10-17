@@ -9,7 +9,7 @@ export const Home = ({text,setText}) => {
         <div>
             {text};
         </div>
-        <button onClick={() => {setText('Dildos')}}>Click Me!</button>
+        <button onClick={() => {setText('ildos')}}>Click Me!</button>
         <Button/>
         <ComplexCard/>
         </>
